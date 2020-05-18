@@ -7,10 +7,9 @@
 _https://viacep.com.br/ws/_
 
 **Referencias:**
-
-_https://cloud.spring.io/spring-cloud-openfeign/reference/html/#spring-cloud-feign-hystrix 
+https://cloud.spring.io/spring-cloud-openfeign/reference/html/#spring-cloud-feign-hystrix 
 https://nphumbert.github.io/blog/2017/07/23/setup-a-circuit-breaker-with-hystrix/ 
-https://spring.io/guides/gs/circuit-breaker/#initial_ 
+https://spring.io/guides/gs/circuit-breaker/#initial
 
 
 
