@@ -1,6 +1,6 @@
 # circuit-breaker
 
-**Testes e estudos sonbre esse assunto ainda em andamento.** 
+**Projeto em construção.** 
 
 **Testes utilizando aplicação:**
 
